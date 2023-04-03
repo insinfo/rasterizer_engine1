@@ -2,10 +2,12 @@
 
 import 'dart:math';
 
-import 'package:rasterizer_engine1/rasterizer_engine1.dart';
-import 'package:rasterizer_engine1/src/models/pointf.dart';
 
+import 'models/pointf.dart';
+
+import 'models/color.dart';
 import 'models/colorf.dart';
+import 'models/image_data.dart';
 
 const int BYTES_PER_PIXEL = 4;
 

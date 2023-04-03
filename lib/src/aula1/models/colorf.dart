@@ -1,5 +1,7 @@
 import 'package:rasterizer_engine1/rasterizer_engine1.dart';
 
+import 'color.dart';
+
 class ColorF {
   final double r;
   final double g;

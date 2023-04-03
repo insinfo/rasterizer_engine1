@@ -1,9 +1,12 @@
-import 'package:rasterizer_engine1/rasterizer_engine1.dart';
+
 import 'dart:io';
 import 'package:image/image.dart' as img;
-import 'package:rasterizer_engine1/src/basic_engine.dart';
-import 'package:rasterizer_engine1/src/models/colorf.dart';
-import 'package:rasterizer_engine1/src/models/pointf.dart';
+import 'package:rasterizer_engine1/src/aula1/models/color.dart';
+import 'package:rasterizer_engine1/src/aula1/models/colorf.dart';
+import 'package:rasterizer_engine1/src/aula1/basic_engine.dart';
+import 'package:rasterizer_engine1/src/aula1/models/image_data.dart';
+import 'package:rasterizer_engine1/src/aula1/models/pointf.dart';
+
 
 void main(List<String> arguments) async {
 // Initialize a new ImageData object

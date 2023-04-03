@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:rasterizer_engine1/src/models/color.dart';
+import 'color.dart';
 
 class ImageData {
   ///A Uint8ClampedArray representing a one-dimensional array containing the data in the RGBA order, with integer values between 0 and 255 (inclusive). The order goes by rows from the top-left pixel to the bottom-right.
